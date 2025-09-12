@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|solutionrelative:HorrorMovieTracker\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|solutionrelative:HorrorMovieTracker\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\HorrorMovieTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BAFC616-0341-418C-AE60-A918C5208084}|HorrorMovieTracker\\HorrorMovieTracker.vcxproj|solutionrelative:HorrorMovieTracker\\HorrorMovieTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Database.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.cpp",
-              "RelativeDocumentMoniker": "HorrorMovieTracker\\Database.cpp",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.cpp",
-              "RelativeToolTip": "HorrorMovieTracker\\Database.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-12T03:24:10.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Database.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.h",
-              "RelativeDocumentMoniker": "HorrorMovieTracker\\Database.h",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\Database.h",
-              "RelativeToolTip": "HorrorMovieTracker\\Database.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-12T02:56:01.219Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -64,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HorrorMovieTracker.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\HorrorMovieTracker.cpp",
               "RelativeDocumentMoniker": "HorrorMovieTracker\\HorrorMovieTracker.cpp",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\HorrorMovieTracker.cpp",
-              "RelativeToolTip": "HorrorMovieTracker\\HorrorMovieTracker.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C\u002B\u002B Projects\\HorrorMovieTracker\\HorrorMovieTracker\\HorrorMovieTracker.cpp*",
+              "RelativeToolTip": "HorrorMovieTracker\\HorrorMovieTracker.cpp*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-12T02:41:14.596Z",
               "EditorCaption": ""

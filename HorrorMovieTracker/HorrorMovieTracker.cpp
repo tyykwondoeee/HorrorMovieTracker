@@ -1,16 +1,22 @@
 ﻿#include <iostream>
-#include "sqlite3.h"
+#include "Database.h"
 
 int main() {
-    sqlite3* db;
-    int rc = sqlite3_open("horror_movies.db", &db);
+//Adding database
+	Database db("HorrorMovies.db");
+//Adding movies
+	Movie m;
+	m.title = "The Shining";
+	m.year = 1988;
+	m.genre = "Horror";
+	m.director = "Stanley Kubrick";
+	m.subgenre = "Psychological Horror";
+	m.actor = "Jack Nicholson";
 
-    if (rc) {
-        std::cerr << "Can't open database: " << sqlite3_errmsg(db) << std::endl;
-        return 1;
-    }
-    std::cout << "Opened database successfully!" << std::endl;
-
-    sqlite3_close(db);
-    return 0;
+	if (db.addMovie(m)) {
+		std::cout << "Movie added successfully!" << std::endl;
+	} else {
+		std::cout << "Failed to add movie." << std::endl;
+	}
+	return 0;
 }

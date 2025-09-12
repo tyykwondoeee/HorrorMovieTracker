@@ -1,2 +1,5 @@
-﻿  HorrorMovieTracker.cpp
-  HorrorMovieTracker.vcxproj -> C:\Users\Admin\OneDrive\Desktop\C++ Projects\HorrorMovieTracker\x64\Debug\HorrorMovieTracker.exe
+﻿  Database.cpp
+  HorrorMovieTracker.cpp
+  Generating Code...
+HorrorMovieTracker.obj : error LNK2019: unresolved external symbol "public: bool __cdecl Database::addMovie(struct Movie const &)" (?addMovie@Database@@QEAA_NAEBUMovie@@@Z) referenced in function main
+C:\Users\Admin\OneDrive\Desktop\C++ Projects\HorrorMovieTracker\x64\Debug\HorrorMovieTracker.exe : fatal error LNK1120: 1 unresolved externals
